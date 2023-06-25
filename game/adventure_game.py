@@ -97,7 +97,7 @@ the sword!
 
 words_list = ["to", "over", "the"]
 global INVENTORY_PATH
-INVENTORY_PATH = "/workspaces/python-practice/programs/inventory.json"
+INVENTORY_PATH = "/workspaces/TextAdventureGame/game/inventory.json"
 
 
 def save_game():
