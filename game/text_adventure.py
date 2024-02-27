@@ -67,7 +67,7 @@ if conf == "y":
     if len(character_name) > 2:
         c = character_name[2].capitalize()
         character_name = a + " " + b + " " + c
-    else: 
+    else:
         character_name = a + " " + b
     print("-----------------------")
     print(

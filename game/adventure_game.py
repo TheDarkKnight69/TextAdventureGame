@@ -517,7 +517,7 @@ Enter 'take sword' to proceed."""
             ps.print_slow("Wrong Input")
         else:
             ps.print_slow("Sword added to inventory.")
-            inventory.append("Sword")
+            inventory["weapons"] = "Sword"
             break
     ps.print_slow(
         """
